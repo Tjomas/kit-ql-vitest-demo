@@ -1,0 +1,13 @@
+node_modules
+
+tsconfig.tsbuildinfo
+.env.local
+
+coverage
+cobertura-coverage.xml
+rspec.xml
+
+.idea
+
+gitlabMetrics.txt
+gl-codequality.json
